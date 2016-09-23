@@ -1,0 +1,4 @@
+DiceRollIntent dice roll
+DiceRollIntent give me a dice roll
+DiceRollIntent can you give me a dice roll
+DiceRollIntent I need a dice roll
